@@ -117,11 +117,11 @@ int main() {
     ofstream archivo("resultados.csv");
 
     archivo
-        << "Tamaño de entrada (n),"
-        << "Búsqueda Binaria Experimental (ns),"
+        << "Tamano de entrada (n),"
+        << "Busqueda Binaria Experimental (ns),"
         << "MergeSort Experimental (ns),"
-        << "Búsqueda Binaria Teórico (log2_n),"
-        << "(n_log2_n)"
+        << "Busqueda Binaria Teorico (log2_n),"
+        << "MergeSort Teorico(n_log2_n)"
         << endl;
 
 
