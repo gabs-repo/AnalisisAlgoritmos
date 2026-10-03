@@ -15,3 +15,13 @@ En conclusión, el análisis asintótico describe la tasa de crecimiento y elimi
 
 
 ## MergeSort - O(n·log₂(n)): ![Gráfica MergeSort](imagenes/mergesort.png)
+
+
+Material consultado:
+https://en.cppreference.com/cpp/chrono/duration
+https://en.cppreference.com/cpp/header/random
+https://github.com/itcr-computer-engineering/data-structures-and-algorithms
+https://support.microsoft.com/es-es/excel/get-started/create-a-chart-from-start-to-finish
+https://www.geeksforgeeks.org/dsa/complete-guide-on-complexity-analysis/
+https://www.geeksforgeeks.org/dsa/examples-of-big-o-analysis/
+https://www.geeksforgeeks.org/dsa/what-does-big-o-on-complexity-mean/
